@@ -1,0 +1,6 @@
+# OSX Generated Files
+.DS_Store
+
+# Local Files
+local-files/
+.vscode/
