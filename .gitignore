@@ -4,3 +4,5 @@
 # Local Files
 local-files/
 .vscode/
+
+Simple-Map/static/js/config.js
