@@ -9,3 +9,8 @@ Simple-Map/static/js/config.js
 
 # challenge repo local files
 Earthquake_Challenge/local-files/
+
+# config files
+/config.js
+*config.js
+*/config.js
