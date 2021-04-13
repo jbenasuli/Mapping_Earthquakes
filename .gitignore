@@ -6,3 +6,6 @@ local-files/
 .vscode/
 
 Simple-Map/static/js/config.js
+
+# challenge repo local files
+Earthquake_Challenge/local-files/
